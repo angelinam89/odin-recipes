@@ -1,0 +1,14 @@
+body {
+    background-color: #F9E4D4;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+ul {
+list-style: none;
+}
